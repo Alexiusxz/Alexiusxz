@@ -20,7 +20,6 @@
   "Hello, i'm Aleksei ",
   "I love coding every day on JavaScript",
   "Every day i'm trying to learn usefull tools",
-  "Know а lot but still love backend",
   "Write me ❤️"
 ```
  </div>
