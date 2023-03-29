@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://lh3.googleusercontent.com/dutdMdJ09dWFJZn3bHEaLKe98l1jQOtD3rl-Eme-cS25WLnGRyN_qICM0wnrsUWDkY7f692pYFMoCzJyv4-vU1RFEr7gSwY2pRNeVqNY" width="200px" />
+
 
 <h1 align="center">Contact with me:</h1>
 <p align="center">
