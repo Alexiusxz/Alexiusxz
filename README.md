@@ -2,12 +2,7 @@
 
 
 
-<h1 align="center">Contact with me:</h1>
-<p align="center">
-<a href="https://t.me/goloviychuk" target="blank"><img align="center" src="https://www.svgrepo.com/download/271091/telegram.svg" alt="@goloviychuk" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/aleksei-goloviychuk-84b68b261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aleksei Goloviychuk" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mr_yazva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_yazva" height="30" width="40" /></a>
-</p>
+
 <img src="https://komarev.com/ghpvc/?username=Alexiusxzlse&style=flat-square&color=blue" alt="stat"/>
  </div>
   <h1>About me</h1> 
@@ -41,3 +36,9 @@
 </div>
 <br />
  <img src='https://www.codewars.com/users/Alexiusxz/badges/large'>
+ <h1 align="center">Contact with me:</h1>
+<p align="center">
+<a href="https://t.me/goloviychuk" target="blank"><img align="center" src="https://www.svgrepo.com/download/271091/telegram.svg" alt="@goloviychuk" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/aleksei-goloviychuk-84b68b261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aleksei Goloviychuk" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr_yazva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_yazva" height="30" width="40" /></a>
+</p>
